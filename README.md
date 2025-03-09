@@ -14,7 +14,7 @@ This program allows you to remove a specific section from an MP3 file without al
 ## Dependencies
 
 1. **Python 3.6 or latest version**:
-    [Python website] (https://www.python.org/downloads/)
+   - [Python website] (https://www.python.org/downloads/)
 
 2. **Install pydub**:
    ```bash
